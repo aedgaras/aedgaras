@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Edgaras, here are some facts about me 
+My name is Edgaras Adomavičius, here are some facts about me:
 
 🎓 I'm 3rd year Informatics Engineering student at Kaunas University of Technology.
 
