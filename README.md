@@ -3,9 +3,13 @@
 My name is Edgaras, here are some facts about me 
 
 🎓 I'm 3rd year Informatics Engineering student at Kaunas University of Technology.
+
 💼 I'm currently working as a Junior Techninian at Kaunas University of Technology.
+
 🔭 I’m currently working on a to-do list that's written in React.
+
 🌱 I’m currently learning React, Node.js.
+
 📫 You can reach me at: aedgaras@protonmail.com
 
 <!--
