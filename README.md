@@ -4,7 +4,7 @@ My name is Edgaras Adomavičius, here are some facts about me:
 
 🎓 I'm 3rd year Informatics Engineering student at Kaunas University of Technology.
 
-💼 I'm currently working as a Junior Techninian at Kaunas University of Technology.
+💼 I'm ex Junior Techninian at Kaunas University of Technology, currently working as a freelance Web Developer.
 
 🔭 I’m currently working on a personal site.
 
