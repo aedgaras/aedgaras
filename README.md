@@ -6,7 +6,7 @@ My name is Edgaras Adomavičius, here are some facts about me:
 
 💼 I'm currently working as a Junior Techninian at Kaunas University of Technology.
 
-🔭 I’m currently working on a to-do list that's written in React.
+🔭 I’m currently working on a personal site.
 
 🌱 I’m currently learning React, Node.js.
 
